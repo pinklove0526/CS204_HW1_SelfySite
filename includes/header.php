@@ -5,6 +5,7 @@
         <title>Selfy Site</title>
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Average&family=Fjalla+One&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
         <style media="screen">
             h1, h2, h3, h4, nav ul li
             {
@@ -43,6 +44,7 @@
                 width: 100%;
                 height: 69px;
                 box: 1px 1px 5px #ff007f;
+                z-index: 10;
             }
 
             .logo
